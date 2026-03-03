@@ -1,0 +1,200 @@
+Un fournisseur de services décrit un package qui comprend un poste de travail avec des logiciels et un service de support. De quoi ce package est-il un exemple ?
+(1 point)
+
+De la valeur
+
+D’un résultat (outcome)
+
+D’une garantie
+
+D’une offre de services
+4.Qu’est-ce qui est cocréé grâce à une active collaboration entre fournisseurs de services et consommateurs de services ?
+(1 point)
+
+De l’utilité
+
+De la valeur
+
+Des risques
+
+De la garantie
+5.Qu’est-ce qu’un livrable ?
+(1 point)
+
+Un montant d’argent dépensé pour une activité
+
+Le résultat obtenu par une partie-prenante grâce à un livrable qui lui est fourni
+
+Un livrable, tangible ou intangible, obtenu après exécution d’une activité
+
+Une difficulté potentielle qui pourrait impacter un service
+6.Que recouvre la consommation de services ?
+(1 point)
+
+La surveillance des ressources du fournisseur de services
+
+Les activités effectuées par une organisation afin de consommer des services
+
+La garantie de cocréation de valeur en continu
+
+La fourniture à des utilisateurs d’un accès à des ressources
+7.Quelle pratique consiste à mettre à disposition des services et des fonctionnalités nouvelles ou modifiées ?
+(1 point)
+
+L'habilitation des changements
+
+La gestion des demandes de services
+
+La gestion des mises en production
+
+La gestion des incidents
+8.Quel principe directeur recommande d’éliminer un processus, un service, une action s’ils ne fournissent pas de valeur ou un résultat (outcome) utile ?
+(1 point)
+
+Collaborer et promouvoir la visibilité
+
+Commencer là où vous êtes
+
+Penser et travailler de façon holistique
+
+Opter pour la simplicité et rester pratique
+9.Quelle affirmation relative au principe directeur « Collaborer et promouvoir la  visibilité » est correcte ?
+(1 point)
+
+Limiter le nombre de personnes qui sont informées aidera à réduire la résistance au changement
+
+On ne doit pas inclure de consommateurs de services dans les partie-prenantes d’un projet d’amélioration
+
+On doit obtenir un consensus général avant de démarrer un projet d’amélioration
+
+Quand des parties-prenantes ont une faible visibilité sur un projet d’amélioration, elles peuvent penser que celui-ci a une faible priorité
+10.Que signifie le principe directeur « Penser et travailler de façon holistique » ?
+(1 point)
+
+Avoir une vision claire de ce qu’est la valeur d’un service pour le consommateur
+
+Identifier quelles ressources peuvent être utilisées pour fournir des services
+
+Comprendre comment toutes les parties d’une organisation collaborent pour fournir les services
+
+Impliquer les bonnes personnes dans les bons rôles
+11.Quel principe directeur prend en considération les 4 dimensions de la gestion des services pour créer de la valeur ?
+(1 point)
+
+Commencer là où vous êtes
+
+Optimiser et automatiser
+
+Opter pour la simplicité et rester pratique
+
+Penser et travailler de façon holistique
+12.Quel principe directeur décrit l’importance d’agir et de produire quelque chose, plutôt que de passer beaucoup de temps à analyser différentes options ?
+(1 point)
+
+Optimiser et automatiser
+
+Commencer là où vous êtes
+
+Privilégier la valeur
+
+Avancer par itération avec des retours
+13.Comment fonctionne les activités de la chaîne de valeur des services ?
+(1 point)
+
+Les six activités de la chaîne de valeur de services définissent un flux unique de valeur.
+
+Chaque activité de la chaîne de valeur des services est un modèle opérationnel qui définit les étapes-clés pour créer de la demande
+
+Les six activités de la chaîne de valeur des services représentent les étapes dans une organisation pour la création de valeur
+
+Chaque activité de la chaîne de valeur des services transforme des produits en services
+14.Quelles sont les entrées-clés du système de valeur des services d’ITIL (ITIL SVS) ?
+(1 point)
+
+Des produits et des services
+
+Des opportunités et des demandes
+
+Des résultats (outcomes) et de la valeur
+
+La gouvernance et des pratiques
+15.Qu’est-ce-qui décrit les étapes de la création de la valeur dans une organisation ?
+(1 point)
+
+Une offre de services
+
+Les 4 dimensions de la gestion des services
+
+La chaîne de valeur des services
+
+L'amélioration continue
+16.Quelle pratique a pour mission de restaurer les opérations normales de service aussi vite que possible ?
+(1 point)
+
+Gestion des fournisseurs
+
+Gestion des déploiements
+
+Gestion des problèmes
+
+Gestion des incidents
+17.Quel est le but de la pratique de gestion des relations ?
+(1 point)
+
+Aligner les pratiques et les services d’une organisation avec les besoins changeants du métier
+
+Etablir et entretenir les liens entre une organisation et ses parties-prenantes au niveau stratégique et au niveau tactique
+
+Réduire la probabilité et l’impact des incidents en identifiant les causes réelles et potentielles des incidents et en gérant des solutions de contournement et des erreurs connues
+
+Minimiser l’impact négatif des incidents en rétablissant les opérations normales de service aussi vite que possible
+18.Comment la catégorisation des incidents aide-t-elle la pratique de gestion des incidents ?
+(1 point)
+
+Cela aide à escalader les incidents vers le bon groupe de support
+
+Cela aide à déterminer le type de changement utile
+
+Cela assure que les problèmes seront résolus dans les délais convenus avec les clients
+
+Cela aide à déterminer comment le fournisseur de services est perçu
+19.Quelles sont les 2 pratiques les plus liées à la pratique de gestion de problèmes ?
+(1 point)
+
+Gestion des incidents et amélioration continue
+
+Amélioration continue et gestion des demandes de services
+
+Gestion des incidents et centre de services
+
+Centre de services et Habilitation des changements
+20.Sur quoi la pratique de gestion des demandes de services apporte-t-elle un soutien ?
+(1 point)
+
+Une demande pour autoriser un changement qui pourrait avoir un effet sur un service
+
+Une demande d’un utilisateur pour quelque chose qui est un élément normal de la fourniture de service
+
+Une demande d’un utilisateur pour restaurer le service après une interruption de service
+
+Une demande pour investiguer les causes de multiples incidents liés
+21.Quel est l’effet de la montée en puissance de l’automatisation dans la pratique de centre de services ?
+(1 point)
+
+Une plus grande aptitude à se concentrer sur l’expérience client lorsqu’un contact personnel est requis
+
+Une diminution de l’enregistrement et de la résolution des incidents en self-service
+
+Une augmentation des corrections technologiques et une diminution du soutien aux personnes
+
+Une suppression des escalades vers des équipes de soutien
+22.Quelle  pratique a des activités auxquelles chacun devrait contribuer dans l’organisation ?
+(1 point)
+
+Gestion des niveaux de service
+
+Amélioration continue
+
+Habilitation des changements
+
+Gestion des problèmes
